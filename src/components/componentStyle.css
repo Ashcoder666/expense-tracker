@@ -1,0 +1,22 @@
+.expense-title{
+    text-align: center;
+    font-size: 30px;
+  font-family:'Tahoma', Geneva, Verdana, sans-serif;
+  color: #111;
+  padding: 15px 0px 15px 0px;
+  -webkit-text-stroke: rgb(226, 60, 60) 1px;
+}
+.income-title{
+    text-align: center;
+    font-size: 30px;
+  font-family:'Tahoma', Geneva, Verdana, sans-serif;
+  color: #111;
+  padding: 15px 0px 15px 0px;
+  -webkit-text-stroke: rgb(79, 226, 60) 1px;
+}
+ 
+
+.exp1{
+    margin-bottom: 10px !important;
+}
+

@@ -1,0 +1,11 @@
+[33mcommit 66e6ef30cd290352ac097866413453623f8f5510[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: ashir <ashirnbasheer@gmail.com>
+Date:   Thu Jan 20 11:39:23 2022 +0530
+
+    Homepage styles completed
+
+[33mcommit a9a763d762ce08f0ba0e7fefd47c5c9aaf927a0d[m
+Author: ashir <ashirnbasheer@gmail.com>
+Date:   Thu Jan 20 10:50:09 2022 +0530
+
+    Initialize project using Create React App

@@ -5,6 +5,7 @@
   margin-top: 110px;
   width: 400px;
   height: 500px;
+  box-shadow: 3px 2px 5px 2px black;
 }
 .app-title{
   text-align: center;
