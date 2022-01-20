@@ -6,7 +6,7 @@ const Income = () => {
 <h1 className='income-title'>Income</h1>
       <div className="ui form">
   <div className="field">
-      <input type="text" className='exp1'  placeholder='Expense Title'/>
+      <input type="text" className='exp1'  placeholder='Income Title'/>
       <select name="" id="" className='exp1'>
         <option value="">Salary</option>
         <option value="">Recollected Debts</option>

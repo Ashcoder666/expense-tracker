@@ -17,18 +17,7 @@ const customStyles = {
     transform: 'translate(-50%, -50%)',
   },
 };
-const modalStyle={
-content :{
-  height:'350px',
-  width:'300px',
-  border:'1px solid black',
-  marginRight: '-50%',
-  transform: 'translate(-50%, -50%)',
-  top: '50%',
-  left: '50%',
-  right: 'auto',
-  boxShadow:'3px 7px 5px 6px black'
-}}
+
 
 
 function App() {
